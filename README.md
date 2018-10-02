@@ -1,3 +1,3 @@
 # hw03-xcct2012
-hw03-xcct2012 created by GitHub Classroom
-I am zach here me roar
+## Zachary Sherker
+This is a repository for Zachary Sherker's STAT545 homework 3 assignment.
